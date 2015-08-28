@@ -1,0 +1,22 @@
+{
+  "name": "koelpinl.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/koelpinl/koelpinl.github.io",
+  "authors": [
+    "Lars Koelpin <lrsklpn@live.de>"
+  ],
+  "description": "Github Homepage",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5"
+  }
+}

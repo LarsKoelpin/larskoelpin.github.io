@@ -1,0 +1,30 @@
+body {
+  background: #31B5F7;
+  color: white;
+}
+
+.dialog h1{
+  font-size: 34px;
+  font-weight: 600;
+  color: white;
+  margin: 0 auto;
+  margin-top: 20%;
+  text-align: center;
+}
+
+.themen {
+  color: white;
+  text-align: center;
+}
+
+.dialog ul {
+  list-style: none;
+}
+
+.picture {
+  float:left;
+  width: 150px;
+  height: 200px;
+  background: red;
+  margin: 15px;
+}
